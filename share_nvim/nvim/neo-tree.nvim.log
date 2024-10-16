@@ -1,0 +1,44 @@
+[INFO  Sun 22 Sep 2024 08:27:00 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon 23 Sep 2024 12:18:30 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon 23 Sep 2024 12:49:48 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon 23 Sep 2024 03:05:44 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon 23 Sep 2024 03:10:38 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon 23 Sep 2024 03:38:28 PM WEST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/rmenezes/42cursus/ruh-roh/push_swap/srcs/funny
+[ERROR Tue 24 Sep 2024 01:36:08 AM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /home/rmenezes/42cursus/pls/libft/atoi_itoa :  ENOENT: no such file or directory: /home/rmenezes/42cursus/pls/libft/atoi_itoa
+[INFO  Tue 24 Sep 2024 01:21:45 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue 24 Sep 2024 01:33:30 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue 24 Sep 2024 01:47:25 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue 24 Sep 2024 05:12:58 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed 25 Sep 2024 03:58:44 PM WEST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied push.c to clipboard
+[INFO  Thu 26 Sep 2024 01:22:10 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[ERROR Thu 26 Sep 2024 11:23:53 AM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /home/rmenezes/42cursus/Greedy/push_swap/srcs/bonus :  ENOENT: no such file or directory: /home/rmenezes/42cursus/Greedy/push_swap/srcs/bonus
+[INFO  Thu 26 Sep 2024 02:19:52 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu 26 Sep 2024 02:20:04 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Thu 26 Sep 2024 10:49:17 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Fri 27 Sep 2024 10:56:32 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[ERROR Fri 27 Sep 2024 10:58:45 AM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /home/rmenezes/42cursus/wha_happ :  ENOENT: no such file or directory: /home/rmenezes/42cursus/wha_happ
+[INFO  Fri 27 Sep 2024 11:01:52 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Fri 27 Sep 2024 05:00:38 PM WEST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/rmenezes/42cursus/Greedy/push_swap/inc
+[INFO  Fri 27 Sep 2024 05:00:46 PM WEST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied bonus to clipboard
+[INFO  Fri 27 Sep 2024 05:00:53 PM WEST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/rmenezes/42cursus/Greedy/push_swap/bonus
+[INFO  Sat 28 Sep 2024 01:41:17 AM WEST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/rmenezes/42cursus/Greedy/push_swap/srcs/push_swap
+[INFO  Sat 28 Sep 2024 01:47:59 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat 28 Sep 2024 01:48:07 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sat 28 Sep 2024 01:50:38 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat 28 Sep 2024 08:36:31 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[ERROR Mon 30 Sep 2024 12:09:34 PM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /home/rmenezes/42cursus/fract-ol :  ENOENT: no such file or directory: /home/rmenezes/42cursus/fract-ol
+[ERROR Mon 30 Sep 2024 12:09:34 PM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /home/rmenezes/42cursus/fract-ol :  ENOENT: no such file or directory: /home/rmenezes/42cursus/fract-ol
+[INFO  Sat 05 Oct 2024 03:05:41 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat 05 Oct 2024 03:05:42 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Tue 08 Oct 2024 06:53:16 PM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue 08 Oct 2024 06:53:55 PM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue 08 Oct 2024 09:31:32 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue 08 Oct 2024 09:31:33 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Wed 09 Oct 2024 12:05:02 AM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu 10 Oct 2024 05:44:51 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun 13 Oct 2024 11:38:10 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun 13 Oct 2024 11:38:14 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sun 13 Oct 2024 11:38:15 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun 13 Oct 2024 11:38:16 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Mon 14 Oct 2024 02:53:07 PM WEST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue 15 Oct 2024 07:55:04 PM WEST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
